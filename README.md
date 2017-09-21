@@ -1,8 +1,8 @@
-#LyricsFetcher
+<h3>LyricsFetcher</h3>
 
 This python program fetches lyrics of songs and displays it.
 
-##Usage
+<h4>Usage</h4>
 $python  lyricsFetch.py  artist_name  song_name
 
 
